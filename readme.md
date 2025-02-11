@@ -7,7 +7,7 @@ Este projeto consiste em controlar um servomotor utilizando o módulo PWM (Pulse
 O objetivo desta atividade é simular o controle de um servomotor padrão (micro servo) utilizando o módulo PWM do Raspberry Pi Pico W. O projeto inclui a configuração do PWM para diferentes ciclos ativos, permitindo o controle do ângulo do servomotor em 0°, 90° e 180°. Além disso, foi implementada uma rotina para movimentação suave do braço do servomotor entre 0° e 180°.
 
 ### 🎥 Demonstração
-[Clique para assistir](https://youtu.be)
+[Clique para assistir](https://youtu.be/sHMq3Xqu4_0)
 
 ### Requisitos da Atividade
 
